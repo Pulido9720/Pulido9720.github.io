@@ -1,0 +1,43 @@
+.titulo{
+    font: 800;
+    color: white;
+ text-align: center;
+    
+}
+.fondo{
+    
+    background: #d14f13
+    
+}
+.imagen{
+    width: 6%;
+  
+}
+.caja1{
+ Color: rgb(223, 104, 57);
+  width: 76%;
+ 
+}
+
+.caja2{
+    color: rgb(24, 109, 238);   
+    width: 76%;
+}
+.fondotxt1{
+    
+    background: rgb(50, 115, 212);
+    width: 76%;
+    border: 5px solid orange;
+}
+.fondotxt2{
+    background:     rgb(224, 92, 39);
+    width: 76%;
+    border: 5px solid grey;
+}
+.tamañotxt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+.tamañotit{
+    font-size: 150%;
+}

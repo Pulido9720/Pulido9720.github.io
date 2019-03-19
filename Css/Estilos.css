@@ -16,23 +16,30 @@
 .caja1{
  Color: rgb(223, 104, 57);
   width: 76%;
+  
  
 }
 
 .caja2{
     color: rgb(24, 109, 238);   
     width: 76%;
+   
 }
 .fondotxt1{
     
     background: rgb(50, 115, 212);
     width: 76%;
     border: 5px solid orange;
+    margin: 6px;
+    padding: 8px;
+
 }
 .fondotxt2{
     background:     rgb(224, 92, 39);
     width: 76%;
     border: 5px solid grey;
+    margin: 6px;
+    padding: 8px;
 }
 .tamañotxt{
     font-family: 'Times New Roman', Times, serif;
@@ -44,3 +51,72 @@
 .widgett{
     float: right;
 }
+.fondotxt3{
+    
+    background: rgb(243, 91, 31);
+    width: 100;
+    border: 5px solid grey;
+}
+.fondotxt4{
+    
+    background:rgb(50, 115, 212);
+    width: 100;
+    border: 5px solid grey;
+}
+.titulo2{
+    
+    background: rgb(235, 78, 21);
+    text-align: center;
+    width: 100%;
+}
+.fondoweb{
+    background-color: #f1e7e7;
+}
+
+/* Aqui inicia estilos para la barra de menu */
+
+#header {
+    padding:18px;
+    margin:auto;
+    width:600px;
+    font-family:Arial, Helvetica, sans-serif;
+   }
+   
+   ul, ol {
+    list-style:none;
+   }
+   
+   .nav > li {
+    float:left;
+   }
+   
+   .nav li a {
+    background-color: rgb(50, 115, 212);
+    color:#fff;
+    text-decoration:none;
+    padding:15px 20px;
+    display:block;
+   }
+   
+   .nav li a:hover {
+    background-color:#434343;
+   }
+   
+   .nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+   }
+   
+   .nav li:hover > ul {
+    display:block;
+   }
+   
+   .nav li ul li {
+    position:relative;
+   }
+   
+   .nav li ul li ul {
+    right:-140px;
+    top:0px;
+   }

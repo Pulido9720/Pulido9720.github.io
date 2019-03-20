@@ -10,9 +10,15 @@
     
 }
 .imagen{
-    width: 6%;
-  
+ float: left;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
+.imagen2{
+    float: right;
+     margin-left: 20px;
+    
+   }
 .caja1{
  Color: rgb(223, 104, 57);
   width: 76%;
@@ -25,6 +31,10 @@
     width: 76%;
    
 }
+.caja3{
+    color: black;  
+    width: 98%; 
+}
 .fondotxt1{
     
     background: rgb(50, 115, 212);
@@ -32,7 +42,7 @@
     border: 5px solid orange;
     margin: 6px;
     padding: 8px;
-
+    text-align: justify;
 }
 .fondotxt2{
     background:     rgb(224, 92, 39);
@@ -40,17 +50,9 @@
     border: 5px solid grey;
     margin: 6px;
     padding: 8px;
+    text-align: justify;
 }
-.tamañotxt{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 120%;
-}
-.tamañotit{
-    font-size: 150%;
-}
-.widgett{
-    float: right;
-}
+
 .fondotxt3{
     
     background: rgb(243, 91, 31);
@@ -63,6 +65,14 @@
     width: 100;
     border: 5px solid grey;
 }
+.fondotxt5{
+    background:     rgb(101, 136, 201);
+    width: 98%;
+    border: 3px solid orangered;
+    margin: 6px;
+    padding: 8px;
+    text-align: justify;
+}
 .titulo2{
     
     background: rgb(235, 78, 21);
@@ -70,7 +80,18 @@
     width: 100%;
 }
 .fondoweb{
-    background-color: #f1e7e7;
+    background-color: #f1e7e796;
+    border: 0.1px solid #e7dfdf96;
+}
+.tamañotxt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+.tamañotit{
+    font-size: 150%;
+}
+.widgett{
+    float: right;
 }
 
 /* Aqui inicia estilos para la barra de menu */

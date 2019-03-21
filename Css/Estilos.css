@@ -22,12 +22,10 @@
 .caja1{
  Color: rgb(223, 104, 57);
   width: 76%;
-  
- 
 }
 
 .caja2{
-    color: rgb(24, 109, 238);   
+    color: rgb(28, 119, 255);   
     width: 76%;
    
 }
@@ -52,6 +50,9 @@
     padding: 8px;
     text-align: justify;
 }
+.justificar{
+    text-align: justify;
+}
 
 .fondotxt3{
     
@@ -65,10 +66,18 @@
     width: 100;
     border: 5px solid grey;
 }
-.fondotxt5{
+.lectura1{
     background:     rgb(101, 136, 201);
     width: 98%;
     border: 3px solid orangered;
+    margin: 6px;
+    padding: 8px;
+    text-align: justify;
+}
+.lectura2{
+    background:     rgb(253, 158, 68);
+    width: 98%;
+    border: 3px solid blue;
     margin: 6px;
     padding: 8px;
     text-align: justify;
@@ -85,7 +94,11 @@
 }
 .tamañotxt{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 120%;
+    font-size: 130%;
+}
+.tamañotxt2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
 }
 .tamañotit{
     font-size: 150%;

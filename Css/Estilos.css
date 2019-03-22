@@ -106,6 +106,9 @@
 .widgett{
     float: right;
 }
+.center{
+    text-align: center;
+}
 
 /* Aqui inicia estilos para la barra de menu */
 

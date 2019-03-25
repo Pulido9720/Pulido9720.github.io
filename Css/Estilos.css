@@ -9,6 +9,8 @@
     background: #d14f13
     
 }
+.body{width:100%;
+}
 .imagen{
  float: left;
   margin-right: 20px;
@@ -36,7 +38,7 @@
 .fondotxt1{
     
     background: rgb(50, 115, 212);
-    width: 76%;
+    width: 74%;
     border: 5px solid orange;
     margin: 6px;
     padding: 8px;
@@ -44,7 +46,7 @@
 }
 .fondotxt2{
     background:     rgb(224, 92, 39);
-    width: 76%;
+    width: 74%;
     border: 5px solid grey;
     margin: 6px;
     padding: 8px;
@@ -65,6 +67,23 @@
     background:rgb(50, 115, 212);
     width: 100;
     border: 5px solid grey;
+}
+.fondotxt5{
+    background: rgb(238, 110, 60);
+    width: 100;
+    border: 3px solid rgb(58, 135, 235);
+}
+.fondotxtpodcast {
+    background:rgb(212, 209, 50);
+    width: 120%;
+    border: 1px solid grey;
+   
+}
+.bloqueautor{
+    background:rgb(87, 157, 236);
+    width: 75%;
+    border: 5px solid orange;
+
 }
 .lectura1{
     background:     rgb(101, 136, 201);

@@ -55,7 +55,10 @@
 .justificar{
     text-align: justify;
 }
-
+.alinear{
+    margin: 7px;
+    padding: 9px;
+}
 .fondotxt3{
     
     background: rgb(243, 91, 31);
@@ -69,9 +72,16 @@
     border: 5px solid grey;
 }
 .fondotxt5{
-    background: rgb(238, 110, 60);
+    background: rgb(255, 125, 73);
     width: 100;
-    border: 3px solid rgb(58, 135, 235);
+    border: 3px solid rgb(87, 157, 236);;
+    margin: 6px;
+}
+.fondotxt6{
+    background:rgb(87, 157, 236);;
+    width: 100;
+    border: 3px solid  rgb(255, 125, 73);
+   
 }
 .fondotxtpodcast {
     background:rgb(212, 209, 50);
@@ -83,6 +93,8 @@
     background:rgb(87, 157, 236);
     width: 75%;
     border: 5px solid orange;
+
+
 
 }
 .lectura1{
@@ -124,6 +136,8 @@
 }
 .widgett{
     float: right;
+    margin: 25px;
+    padding: 20px;
 }
 .center{
     text-align: center;

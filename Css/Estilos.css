@@ -22,12 +22,12 @@
     
    }
 .caja1{
- Color: rgb(223, 104, 57);
+ Color: rgb(244, 121, 32);
   width: 76%;
 }
 
 .caja2{
-    color: rgb(28, 119, 255);   
+    color:  rgb(0, 88, 131); 
     width: 76%;
    
 }
@@ -37,7 +37,7 @@
 }
 .fondotxt1{
     
-    background: rgb(50, 115, 212);
+    background:  rgb(0, 88, 131);
     width: 74%;
     border: 5px solid orange;
     margin: 6px;
@@ -45,9 +45,9 @@
     text-align: justify;
 }
 .fondotxt2{
-    background:     rgb(224, 92, 39);
+    background:     rgb(244, 121, 32);
     width: 74%;
-    border: 5px solid grey;
+    border: 5px solid #808080;
     margin: 6px;
     padding: 8px;
     text-align: justify;
@@ -61,37 +61,37 @@
 }
 .fondotxt3{
     
-    background: rgb(243, 91, 31);
+    background: rgb(244, 121, 32);
     width: 100;
-    border: 5px solid grey;
+    border: 5px solid #808080;;
 }
 .fondotxt4{
     
-    background:rgb(50, 115, 212);
+    background: rgb(0, 88, 131);
     width: 100;
-    border: 5px solid grey;
+    border: 5px solid #808080;;
     margin: 6px;
 }
 .fondotxt5{
-    background: rgb(255, 125, 73);
+    background: rgb(244, 121, 32);
     width: 100;
-    border: 3px solid rgb(87, 157, 236);;
+    border: 3px solid  rgb(0, 88, 131);
     margin: 6px;
 }
 .fondotxt6{
-    background:rgb(87, 157, 236);;
+    background: rgb(0, 88, 131);
     width: 100;
-    border: 3px solid  rgb(255, 125, 73);
+    border: 3px solid  rgb(244, 121, 32);
    
 }
 .fondotxtpodcast {
     background:rgb(212, 209, 50);
     width: 120%;
-    border: 1px solid grey;
+    border: 1px solid #808080;;
    
 }
 .bloqueautor{
-    background:rgb(87, 157, 236);
+    background: rgb(0, 88, 131);
     width: 75%;
     border: 5px solid orange;
 
@@ -99,7 +99,7 @@
 
 }
 .lectura1{
-    background:     rgb(101, 136, 201);
+    background:    rgb(0, 88, 131);
     width: 98%;
     border: 3px solid orangered;
     margin: 6px;
@@ -116,13 +116,13 @@
 }
 .titulo2{
     
-    background: rgb(235, 78, 21);
+    background: rgb(244, 121, 32);
     text-align: center;
     width: 100%;
 }
 .fondoweb{
-    background-color: #f1e7e796;
-    border: 0.1px solid #e7dfdf96;
+    background-color: #b3b3b3;
+    border: 0.1px solid #333333;
 }
 .tamañotxt{
     font-family: 'Times New Roman', Times, serif;
@@ -162,7 +162,7 @@
    }
    
    .nav li a {
-    background-color: rgb(50, 115, 212);
+    background-color: #005883;
     color:#fff;
     text-decoration:none;
     padding:15px 20px;
@@ -170,7 +170,7 @@
    }
    
    .nav li a:hover {
-    background-color:#434343;
+    background-color: #808088;
    }
    
    .nav li ul {

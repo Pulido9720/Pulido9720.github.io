@@ -9,7 +9,6 @@
  * Released under the MIT license
  * https://jquery.org/license
  *
- * Date: 2018-01-20T17:24Z
  */
 ( function( global, factory ) {
 
@@ -86,8 +85,6 @@ var isWindow = function isWindow( obj ) {
 	};
 
 
-
-
 	var preservedScriptAttributes = {
 		type: true,
 		src: true,
@@ -125,7 +122,6 @@ function toType( obj ) {
 /* global Symbol */
 // Defining this global in .eslintrc.json would create a danger of using the global
 // unguarded in another place, it seems safer to define global only for this module
-
 
 
 var
